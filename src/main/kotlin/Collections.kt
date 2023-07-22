@@ -48,7 +48,18 @@ fun main() {
     println(listOf(list, list2, list3).flatten())
     println("FlatMap")
     println(list4.flatMap { map.toList() })
-    println(map.toList())
+
+    println(list.first{it%2==0})
+
+    val heroes = listOf(
+        Pair("The Captain", 60),
+        Pair("Frenchy", 42, ),
+        Pair("The Kid", 9, ),
+        Pair("Sir Stephen", 29, ),
+        Pair("First Mate", 29, ),
+        Pair("Sir Stephen", 37, ))
+
+    println( heroes.map { it.first }.distinct())
 
 
 
