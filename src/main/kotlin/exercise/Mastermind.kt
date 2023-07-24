@@ -12,7 +12,7 @@ fun evaluateGuess(secret: String, guess: String): Evaluation {
 
 
         Math.min(secret.count { s -> ch == s }, guess.count { g -> ch == g })
-
+// min here used as to compare b/w 1 and 0, like OR || condition
 
     }
     println("commonLetters $commonLetters")
