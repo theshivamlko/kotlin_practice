@@ -1,4 +1,4 @@
-
+package exercise
 
 fun main( ) {
     println(isValidIdentifier("name"))   // true
