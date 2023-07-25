@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="1.8" />
+    <bytecodeTargetLevel>
+      <module name="Kotlin_for_Java_Developers._Week_3.Nice_String-Task" target="1.8" />
+      <module name="Kotlin_for_Java_Developers._Week_3.Nice_String-Task.main" target="1.8" />
+      <module name="Kotlin_for_Java_Developers._Week_3.Nice_String-Task.test" target="1.8" />
+      <module name="Kotlin_for_Java_Developers._Week_3.Taxi_Park-Task" target="1.8" />
+      <module name="Kotlin_for_Java_Developers._Week_3.Taxi_Park-Task.main" target="1.8" />
+      <module name="Kotlin_for_Java_Developers._Week_3.Taxi_Park-Task.test" target="1.8" />
+      <module name="Kotlin_for_Java_Developers._Week_3.util" target="1.8" />
+      <module name="Kotlin_for_Java_Developers._Week_3.util.main" target="1.8" />
+      <module name="Kotlin_for_Java_Developers._Week_3.util.test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
